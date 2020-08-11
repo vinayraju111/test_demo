@@ -1,1 +1,1 @@
-This Repository contains my HackerRank Solutioins.
+This Repository contains my HackerRank Solutions.
